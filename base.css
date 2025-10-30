@@ -3,10 +3,6 @@
    License: none (public domain)
 */
 
-body {
-    background-color: black;
-}
-
 html,
 body,
 div,
@@ -111,6 +107,7 @@ section {
 }
 body {
   /* Add background-color declaration here */
+  background-color: black;
 }
 ol,
 ul {
